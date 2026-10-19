@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Rusty Tarot contributors
+
 use std::io::{self, stdout};
 use std::path::{Path, PathBuf};
 use std::time::{Duration, Instant};

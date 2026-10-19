@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Rusty Tarot contributors
+
 //! Retro pixel art for every card, composed from a 16-colour palette
 //! (PICO-8 flavoured) at a base resolution of 16×24 pixels.
 //!

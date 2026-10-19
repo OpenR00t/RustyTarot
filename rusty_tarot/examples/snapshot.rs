@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Rusty Tarot contributors
+
 //! Dev helper: render one frame headlessly and dump the cell grid as TSV
 //! (`x y symbol fg bg`) so it can be turned into a PNG screenshot.
 //!

@@ -132,3 +132,9 @@ cargo run --release -- --export-art built-in-cards --scale 3
 | `src/ui.rs` | header, table, browse grid, detail panel, footer and help overlay |
 | `examples/snapshot.rs` | dev helper that renders one frame headlessly and dumps the cells |
 | `tools/extract_cards.py` | cuts and straightens cards from scanned sheets |
+
+## License
+
+Licensed under the GNU Affero General Public License v3.0 or later. See [LICENSE](LICENSE).
+
+The card scans in `cards/` are not covered by this license; they remain the property of their owners.

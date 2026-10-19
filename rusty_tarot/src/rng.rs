@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Rusty Tarot contributors
+
 //! Small xorshift RNG — no dependencies needed for shuffling a deck.
 
 use std::time::{SystemTime, UNIX_EPOCH};

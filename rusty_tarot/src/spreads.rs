@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Rusty Tarot contributors
+
 //! Spread layouts. Slot positions are card *centers* measured in layout units,
 //! where one unit is a card's footprint plus its gap.
 

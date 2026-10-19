@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Rusty Tarot contributors
+
 //! The 78-card Rider–Waite–Smith style deck: names, keywords, imagery and meanings.
 //!
 //! Card ids: 0..22 are the Major Arcana, then 14 cards per suit in the order

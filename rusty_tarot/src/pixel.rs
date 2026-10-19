@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Rusty Tarot contributors
+
 //! A tiny pixel canvas rendered to the terminal with upper-half-block characters:
 //! each terminal cell shows two vertically stacked pixels (fg = top, bg = bottom).
 

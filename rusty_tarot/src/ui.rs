@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Rusty Tarot contributors
+
 //! Rendering, styled after a medieval-skinned pocket sampler: a khaki chassis,
 //! a dark green name-plate with a speaker grille, key-cap tabs with Latin
 //! labels, a dark display the cards are dealt onto, and a parchment page for

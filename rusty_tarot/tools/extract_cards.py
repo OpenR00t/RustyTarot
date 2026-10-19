@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# Copyright (C) 2026 The Rusty Tarot contributors
+
 """Cut individual cards out of scanned tarot sheets and recover their pixel art.
 
 1. Each card is found as a non-white blob on the white scan, straightened with
